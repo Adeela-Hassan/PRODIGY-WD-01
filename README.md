@@ -1,3 +1,24 @@
 # PRODIGY-WD-01
-Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages.Use html to structure menu,css to style it and javascript to add interactivity such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.
-In this task I have created a navigation menu by using html,css and javascript.
+# Navigation Page Project
+
+This project is a simple navigation page designed to help users navigate between different sections or pages of a website or web application.
+
+## Overview
+
+The navigation page provides users with a clear and intuitive way to navigate through the various sections or pages of a website. It typically consists of a menu or list of links that direct users to different destinations within the site.
+
+## Features
+
+- **Responsive Design:** The navigation page is designed to be responsive and works seamlessly across different devices and screen sizes.
+
+- **Customizable Menu:** Users can customize the menu items and links according to their specific requirements.
+
+- **Smooth Transitions:** The navigation page provides smooth transitions between different sections or pages, enhancing the user experience.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/navigation-page.git
+   cd navigation-page
+
